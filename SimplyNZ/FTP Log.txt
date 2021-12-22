@@ -1,0 +1,57 @@
+﻿Started: 13/08/2020 12:36 PM
+
+about.html - Transferring
+booknow.html - Transferring
+city.html - Transferring
+about.html - Put operation successful
+booknow.html - Put operation successful
+city.html - Put operation successful
+css\menu.css - Transferring
+css\stylesheet.css - Transferring
+css\menu.css - Put operation successful
+css\stylesheet2.css - Transferring
+css\workform.css - Transferring
+css\stylesheet.css - Put operation successful
+css\stylesheet2.css - Put operation successful
+FTP Log.txt - Transferring
+FTP Log.txt - Put operation successful
+css\workform.css - Put operation successful
+images\auckland.jpg - Transferring
+images\chch.jpg - Transferring
+images\dunedin.jpg - Transferring
+images\auckland.jpg - Put operation successful
+images\hamilton.jpg - Transferring
+images\chch.jpg - Put operation successful
+images\napier.jpg - Transferring
+images\hamilton.jpg - Put operation successful
+images\nelson.jpg - Transferring
+images\dunedin.jpg - Put operation successful
+images\nzfern.png - Transferring
+images\napier.jpg - Put operation successful
+images\nzflag.png - Transferring
+images\nzfern.png - Put operation successful
+images\nzkiwi.png - Transferring
+images\nelson.jpg - Put operation successful
+images\nzpure.jfif - Transferring
+images\nzflag.png - Put operation successful
+images\nzkiwi.png - Put operation successful
+images\nzpure2.jfif - Transferring
+images\nzpure.jfif - Put operation successful
+images\pn.jpg - Transferring
+images\nzpure2.jfif - Put operation successful
+images\queenstown.jpg - Transferring
+images\tauranga.jpg - Transferring
+images\queenstown.jpg - Put operation successful
+images\welcome.JPG - Transferring
+images\tauranga.jpg - Put operation successful
+images\wellington.JPG - Transferring
+images\pn.jpg - Put operation successful
+index.html - Transferring
+images\wellington.JPG - Put operation successful
+images\welcome.JPG - Put operation successful
+index.html - Put operation successful
+
+File activity complete.
+Files updated: 25
+
+Finished: 13/08/2020 12:36 PM

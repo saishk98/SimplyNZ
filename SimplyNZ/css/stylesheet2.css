@@ -1,0 +1,134 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Reset*/
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    font-family: inherit;
+	box-sizing: border-box;
+}
+/*Reset*/
+
+html{
+    font-family: Arial;
+	background-color: black;
+	color: white;
+}
+
+#outer{
+    max-width: 1050px;
+    border: 3px solid blue;
+    padding: 9px;
+    margin: auto;
+    background-color:darkblue;
+	float: none;
+}
+
+header{
+    min-height: 170px;
+    width: 96%;
+    margin: 9px;
+    padding: 9px;
+    border: 3px solid black;
+	background-image:url("../images/queenstown.jpg")
+}
+
+.skip-main-content{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    float: right;
+    display: block;
+}
+
+.skip-main-content a:link{
+    color: black;
+    text-decoration: none;
+}
+
+.skip-main-content a:visited{
+    color: black;
+    text-decoration: none;
+}
+
+.skip-main-content a:hover{
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.skip-main-content a:active{
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+h1{
+    text-shadow: 5px 5px black;
+    color: white;
+    float: right;
+    text-align: right;
+    display: block;
+    font-size: 56px;
+    margin-top: 45px;
+    margin-right: 178px;
+}
+
+main{
+    width: 96%;
+    min-height: 700px;
+    border: 3px solid azure;
+    float: left;
+    margin: 9px;
+    padding: 9px;
+	background-color: blue;
+}
+
+#404Error-Main{
+	width: 96%;
+    min-height: auto;
+    border: 3px solid azure;
+    float: left;
+    margin: auto;
+    padding: 9px;
+	background-color: blue;
+}
+
+h2{
+    display: block;
+    padding: 10px;
+    font-size: 35px;
+    text-align: center;
+    text-shadow: 3px 3px black;
+}
+
+p{
+    color: white;
+    padding: 20px;
+    text-align: justify;
+}
+
+/*CSS Images*/
+img[alt=welcome]{
+	max-width: 100%;
+	height: auto;
+	float: center;
+	display: block;
+}
+
+/*CSS Images*/
+
+/*Clearfloat*/
+.clearfloat{
+    font-size: 0px;
+    margin: 0px;
+    padding: 0px;
+    clear: both;
+    float: none;
+    height: 0px;
+    width: 0px;
+    border: 0px none;
+    line-height: 0;
+}
+/*Clearfloat*/
+

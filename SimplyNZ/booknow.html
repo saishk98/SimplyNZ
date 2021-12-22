@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Book Now</title>
+<link href="css/stylesheet.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="outer4">
+	<header tabindex="1">
+			<img src="images/nzpure.jfif" id="nzpure" alt="nzpure">
+            <a href="#maincontent" class="skip-main-content">Skip to main content</a>
+			<h1>New Zealand</h1>
+		</header>
+		<nav tabindex="2">
+			<ul id="navigation-links">
+                <li class="navigation-link"><a href="index.html" tabindex="3" title="Homepage (Click me)" accesskey="h">Home</a></li>
+                <li class="navigation-link"><a href="about.html" tabindex="4" accesskey="a">About</a></li>
+                <li class="navigation-link"><a href="city.html" tabindex="5" accesskey="c">City</a></li>
+                <li class="navigation-link"><a href="booknow.html" tabindex="6" accesskey="b">Book Now</a></li>
+                <li class="search-bar-position"><input type="text" placeholder="Search..." id="search-bar-navigation" tabindex="7"></li>
+            </ul>
+		</nav>
+	<main id="maincontent" tabindex="8">
+		<p>To book your tickets for a trip to New Zealand, simply fill your details. Once it's done you will receive an email on your confirmation along with the tickets  </p>
+		<br>
+    <fieldset>
+      <legend>
+        Book Now
+      </legend>
+		<label>First name:</label>
+                            <input type="text" name="firstname" id="firstname" placeholder="Your First Name...">
+                        <label>Last Name:</label>
+                        <input type="text" name="lastname" id="lastname" placeholder="Your Last Name...">
+                        <label>Email:</label>
+                        <input type="email" name="email" id="email" placeholder="Your Email...">
+                        <label>Phone Number:</label>
+                        <input type="tel" name="phone" id="phone" placeholder="Your Phone Number...">
+                        <label>Country:</label>
+		                <select name="country" id="country">
+                            <option value="">Select a country</option>
+                        </select>    
+                        <input type="reset" value="Reset" id="reset">
+                        <input type="submit" value="Submit" id="submit">
+		</fieldset>
+		</main>	
+		<footer>
+            <aside id="sitemap-footer">
+                <div class="row-sitemap" tabindex="9">
+                    <div class="column-sitemap">
+						<h3>New Zealand</h3>
+						<br>
+						<ul id="navigation-links-footer">
+                            <li class="navigation-link-footer"><a href="index.html"  tabindex="10">Home</a></li>
+                            <li class="navigation-link-footer"><a href="about.html" tabindex="11">About</a></li>
+                            <li class="navigation-link-footer"><a href="city.html" tabindex="12">City</a></li>
+                            <li class="navigation-link-footer"><a href="booknow.html" tabindex="13">Book Now</a></li>
+							<!--<li class="navigation-link-footer"><a href="findability-homepage.html" tabindex="14">Findability</a></li>-->
+                        </ul>  
+                    </div>
+					<div class="column-sitemap" tabindex="15">
+                        <h3>Get Social</h3>
+                        <br>
+                        <div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div><br>
+                        <a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet?text=Hello%20world"
+  data-size="large">
+Tweet</a>
+						</div>
+                </div>  
+            </aside>
+            <aside id="author-footer">
+			<img src="images/nzpure2.jfif" id="nzpure2" alt="nzpure2"><br>
+               <small>&copy; New Zealand Saish Kothare 2020</small>
+			</aside>
+		 </footer>
+		 <br class="clearfloat">
+      </div>
+       <div id="fb-root"></div>
+       <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v7.0"></script>
+       <script async src="https://platform.twitter.com/widgets.js"></script>
+		
+</body>
+</html>
